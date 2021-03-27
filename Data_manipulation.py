@@ -10,7 +10,7 @@ b: get header
 c: get file stats
 Based on this input the functions get called and the user has to input more parameters if necessary after which he gets an output.
 Author: Swetha Jayapathy
-Date: 04-13-2017
+Date: 02-13-2021
 '''
 def printitems(a):
     try:
