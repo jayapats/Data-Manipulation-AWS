@@ -25,7 +25,7 @@ def printitems(a):
         print e
 def header(d):
     #open the file and print the top line
-    with open('C:\SJ\Python-projects\Data\Behavioral_Risk_Factor_Data__Health-Related_Quality_of_Life__HRQOL_.csv',buffering=100) as f:
+    with open('C:\SJ\Python-projects\Data\Behavioral_Risk_Factor_Data.csv',buffering=100) as f:
         for line in f:
             print line
 def enc(a):
